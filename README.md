@@ -31,6 +31,7 @@
 - Dựa trên mẫu Embed debugger của Discord, hoạt động y hệt, gồm 3 loại:
   + Site embed: google.com, ...
   + Extension embed: cdn.gif/mp4/mp3/png/jpg/zip
+  + Else: bất cứ file khác không được đọc hẳn hoi hoặc bị encrypt
 
 # CDN
 - Đéo có tiền nên làm bản rẻ tiền mất mạng, tạo ra 1 proxy để xử lý hình ảnh/video, sử dụng Cloudflare tunnel (idk ko bt có được không)
